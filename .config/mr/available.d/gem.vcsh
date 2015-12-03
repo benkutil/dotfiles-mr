@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/gem.git]
+checkout = vcsh clone -b vcsh git@github.com:benkutil/dotfiles-gem.git gem

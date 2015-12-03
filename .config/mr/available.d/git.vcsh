@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/git.git]
+checkout = vcsh clone -b vcsh git@github.com:benkutil/dotfiles-git.git git

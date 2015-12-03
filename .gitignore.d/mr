@@ -1,0 +1,10 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/.gitkeep
+!/.config/mr/config.d
+!/.config/mr/config.d/.gitkeep
+!/.config/mr/enabled.d
+!/.config/mr/enabled.d/.gitkeep
+!/.mrconfig

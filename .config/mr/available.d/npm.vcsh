@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/npm.git]
+checkout = vcsh clone -b vcsh git@github.com:benkutil/dotfiles-npm.git npm
