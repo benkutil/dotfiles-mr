@@ -1,0 +1,2 @@
+[DEFAULT]
+include = cat $HOME/.config/mr/enabled.d/*
